@@ -1,17 +1,23 @@
 {
 "kardio":[
-{
-"Vježba_za":"Cijelo tijelo",
-"Broj_ponavljanja": "Round Robin",
-"Sprava_korištenje":"Vježbe za ruke jačaju bicepse, tricepse, ali i gornji dio leđa. Također, riješit će vas i nakupina masnoća oko pazuha, ali i na leđima na području grudnjaka. Krenete li vježbati sad, do ljeta ćete imati lijepe, oblikovane i učvršćene ruke.
-Prilikom izvođenja ovih vježbi potrebno je paziti na držanje i leđa. Učvrstite tijelo, posebno trup i trbuh i držite ravna leđa tijekom izvođenja vježbi kako biste izbjegli moguća istezanja mišića pogotovo kod korištenja bučica. Jednako kao što je važno imati lijepo oblikovane mišiće, još je važnije raditi vježbe pravilno i bez ozljeda. ",
-"enrolled":true, 
-"Težina": 3,
-"Položaj":{
-    "Paziti na":"Pravilno držanje - leđa ravno, kontrola pulsa",
-    "Tip":"Brza radnja",
-    "Puls":"Mjeriti svako 3 minute"
-    }
-    }
-        ]
-            }
+    {
+    "Vježba_za":"Vježba za : Cijelo tijelo",
+    
+    "Broj_ponavljanja": "Broj ponavljanja : Round Robin",
+    
+    "Sprava_korištenje":"OPIS : Kao što smo naveli, smenjuju se intervali submaksilanog i slabijeg ili umernenog opterećenja.
+    Inetervali submaksilnog opeterćenja se mogu porediti sa npr. sprintom, samo što Power Plate spravu koristimo kao steper i na njoj radimo razne vrste stepova ili dinamičnjih vežbi.
+    Ovi intervali traju od 30 do 45 sekundi i pri opterećenju od 30Hz za početnike do 40 Hz na (High amplitudi) za iskusnije vežbače.
+    Ovakva vrsta opterećenja ima za cilj da ubrza puls i najvažnji je deo intervalnog treninga. 
+    Inetervali umerenog ili slabijeg opterećenja su obično statične ili vežbe sa veoma malim radijusom pokreta. Ovi intervali traju 45 sekundi i pri opterećenju od 30Hz za početnike do 40 Hz na (High amplitudi) za iskusnije vežbače.
+    Interval slabijeg inteziteta je određena vrsta aktivne pauze tokom koje se telo priprema za teži interval i spušta se puls.",
+    
+    "Težina": "Težina : 5",
+    "Paziti na":"Paziti na : Pravilno držanje - leđa ravno, kontrola pulsa",
+    "Tip":"Tip : Brza radnja",
+    "Puls":"Puls : 60% - 80%"
+        
+           
+        }
+    ]
+}
