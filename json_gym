@@ -1,15 +1,17 @@
 {
 "kardio":[
+{
 "Vježba_za":"Cijelo tijelo",
 "Broj_ponavljanja": "Round Robin",
 "Sprava_korištenje":"Vježbe za ruke jačaju bicepse, tricepse, ali i gornji dio leđa. Također, riješit će vas i nakupina masnoća oko pazuha, ali i na leđima na području grudnjaka. Krenete li vježbati sad, do ljeta ćete imati lijepe, oblikovane i učvršćene ruke.
 Prilikom izvođenja ovih vježbi potrebno je paziti na držanje i leđa. Učvrstite tijelo, posebno trup i trbuh i držite ravna leđa tijekom izvođenja vježbi kako biste izbjegli moguća istezanja mišića pogotovo kod korištenja bučica. Jednako kao što je važno imati lijepo oblikovane mišiće, još je važnije raditi vježbe pravilno i bez ozljeda. ",
 "enrolled":true, 
 "Težina": 3,
-    "Položaj":{
-        "Paziti na":"Pravilno držanje - leđa ravno, kontrola pulsa",
-        "Tip":"Brza radnja",
-        "Puls":"Mjeriti svako 3 minute"
-        }
+"Položaj":{
+    "Paziti na":"Pravilno držanje - leđa ravno, kontrola pulsa",
+    "Tip":"Brza radnja",
+    "Puls":"Mjeriti svako 3 minute"
+    }
+    }
         ]
             }
