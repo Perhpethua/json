@@ -1,20 +1,13 @@
-{"Vježba_za":"Ruke",
+{
+"Vježba_za":"Ruke",
 "Broj_ponavljanja": "3",
 "Sprava_korištenje":"Vježbe za ruke jačaju bicepse, tricepse, ali i gornji dio leđa. Također, riješit će vas i nakupina masnoća oko pazuha, ali i na leđima na području grudnjaka. Krenete li vježbati sad, do ljeta ćete imati lijepe, oblikovane i učvršćene ruke.
 Prilikom izvođenja ovih vježbi potrebno je paziti na držanje i leđa. Učvrstite tijelo, posebno trup i trbuh i držite ravna leđa tijekom izvođenja vježbi kako biste izbjegli moguća istezanja mišića pogotovo kod korištenja bučica. Jednako kao što je važno imati lijepo oblikovane mišiće, još je važnije raditi vježbe pravilno i bez ozljeda. ",
 "enrolled":true, 
-"married":null,
-"address":{
-    "street":"123 Main St",
-    "city":"Seattle",
-    "state":"WA"
-    },
-    "phone":[
-        {"type":"home",
-        "number":"41222525122"
-        },
-        {"type":"mobile",
-        "number":"4125551212"
+"Težina": 3,
+    "Položaj":{
+        "Paziti na":"Pravilno držanje - leđa ravno, kontrola pulsa",
+        "Hint":"Brza radnja",
+        "Puls":"Mjeriti svako 3 minute"
         }
-        ]
-        }
+            }
